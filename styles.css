@@ -1,0 +1,135 @@
+/* ID STYLES */
+#footer {
+  position: absolute;
+  bottom: 25px;
+  text-align: center;
+  width: 100%;
+}
+
+/* CLASS STYLES */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.top-container {
+  background: hsl(193, 100%, 96%);
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 60px;
+  left: 75px;
+  width: 14%;
+}
+
+.btn-white {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 1px 1px 5px #666666;
+  -moz-box-shadow: 1px 1px 5px #666666;
+  box-shadow: 1px 1px 5px #666666;
+  font-family: 'Open Sans', sans-serif;;
+  color: #00252E;
+  font-size: 14px;
+  font-weight: 700;
+  background: #ffffff;
+  padding: 14px 60px 14px 60px;
+  text-decoration: none;
+  position: absolute;
+  top: 55px;
+  right: 75px;
+}
+
+.btn-white:hover {
+  background: #FF52BF;
+  text-decoration: none;
+}
+
+.btn-pink {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 1px 1px 5px #666666;
+  -moz-box-shadow: 1px 1px 5px #666666;
+  box-shadow: 1px 1px 5px #666666;
+  font-family: 'Open Sans', sans-serif;;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  background: #FF52BF;
+  padding: 18px 65px 18px 65px;
+  text-decoration: none;
+  position: absolute;
+  top:510px;
+  left: 75px;
+}
+
+.btn-pink:hover {
+  background: #ffffff;
+  color: #00252E;
+  text-decoration: none;
+}
+
+.intro {
+  position: absolute;
+  top: 390px;
+  margin-left: 75px;
+  width: 35%;
+}
+
+.illustration-mockups {
+  position: absolute;
+  top: 163px;
+  right: 75px;
+  width: 47%;
+}
+
+.bottom-container {
+  background: rgb(2,36,46);
+  color: white;
+  height: 560px;
+  margin: 100px 0 0 0;
+  position: relative;
+}
+
+.nav-links-table a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.copyright {
+
+}
+
+/* ELEMENT STYLES */
+
+body {
+  background: white;
+  color: #00252E;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+h1 {
+  color: #00252E;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.7;
+  margin-left: 75px;
+  width: 35%;
+  position: absolute;
+  top: 225px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
